@@ -1,0 +1,113 @@
+/* BODY */
+body {
+    border: 1px solid #000;
+    background-color: #F2F1F1;
+    font-family: Outfit;
+}
+
+
+/* NAVIGATION */
+.navbar {
+    background-color: #F2F1F1;
+}
+
+.nav-item {
+    color: #000;
+    text-align: left;
+    font-family: Outfit;
+    font-size: 1.0rem;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 0.78125rem;
+    letter-spacing: 0.0625rem;
+}
+
+
+/* BACKGROUND */
+.item-bg {
+    background-color: #F2F1F1;
+}
+.accordion-button{
+    background-color: #F2F1F1;
+
+}
+
+
+
+
+/* HERO SECTION */
+  .hero-section {
+    position: relative;
+    text-align: center;
+    color: black;
+    background: #F2F1F1;
+    padding: 100px 0;
+}
+
+.hero-image {
+    width: 100%;
+    height: auto;
+    max-width: 700px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.hero-text {
+    margin-top: 30px;
+}
+
+.hero-text h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.hero-text p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+
+
+/* EMPLOYEE SECTION */
+.employee-section {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+
+  .employee-card {
+    flex: 0 0 calc(25% - 20px);
+    box-sizing: border-box;
+    margin: 10px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .employee-photo {
+    width: 100%;
+    max-width: 150px;
+    border-radius: 50%;
+  }
+
+
+
+  /* SOCIAL MEDIA */
+  
+    #social-img-ig {
+        width: 100%;
+        max-width: 60px;
+    }
+     #social-img-x {
+        width: 100%;
+        max-width: 60px;
+
+    }
+    #social-img-fb{
+        width: 100%;
+        max-width: 90px;
+    }
